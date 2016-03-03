@@ -27,7 +27,7 @@ The rows and columns correspond to the nodes in the same order. For example, the
 Andy is not connected to himself (0), connected to Bill with a value 5, and connected to Alice with a
 value 10.
 ```
-#Output
+Output
 ```
 <Expansion>
 <Output>
